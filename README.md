@@ -3,7 +3,7 @@
 Junior Backend Developer currently **transitioning into software development** from a scientific background in Sports Science. I bring strong skills in research, data analysis, and structured problem-solving, and I am now focusing on **backend development** while staying open to exploring other areas of software engineering.  
 
 - Currently learning: **CS50W: Web Programming with Python and JavaScript** (Harvard University)  
-- LinkedIn: [LinkedIn](www.linkedin.com/in/lars-timpe-870008368)   
+- LinkedIn: www.linkedin.com/in/lars-timpe-870008368   
 
 ## Skills
 
