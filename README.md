@@ -1,30 +1,62 @@
-## Hi there 👋 I´m Lars. 
+## Hi there 👋 I'm Lars.
 
-Junior Backend Developer currently **transitioning into software development** from a scientific background in Sports Science. I bring strong skills in research, data analysis, and structured problem-solving, and I am now focusing on **backend development** while staying open to exploring other areas of software engineering.  
+Data Analyst and scientific-technical researcher with a background in Sports Science, currently working at the Institute for Applied Training Science (IAT) in Leipzig.
 
-- Currently learning: **CS50W: Web Programming with Python and JavaScript** (Harvard University)  
-- LinkedIn: www.linkedin.com/in/lars-timpe-870008368   
+My current work focuses on making sports competition data accessible and useful. In the cross-departmental project **"Wettkampfdaten sichtbar machen"**, I am responsible for the technical and operational development of data-driven solutions - from data acquisition and preparation to analysis and visualization. My academic background is in **Sports Science (M.A.)**, including quantitative empirical research and statistical data analysis.
+Alongside my professional work in data analysis, I have a strong interest in **software and web development**. In my own projects, I explore how data, databases, backend systems, and web applications can be combined to create practical digital solutions. My main programming language is Python, while I also work with SQL, relational databases, JavaScript, and web technologies.
+
+## Current Work Projects
+
+**Wettkampfdaten sichtbar machen**
+- Cross-departmental project focused on making sports competition data accessible and usable
+- Technical and operational development of data-driven solutions
+- Working with sports competition data from acquisition and preparation through analysis and visualization
+- Development of interactive visualizations and dashboards for sports-scientific data
+
+**Trendmonitor**
+- Development of a database-driven tool for the Strategy and Knowledge Management department
+- Analysis of scientific literature using NLP methods
+- Processing of scientific texts to identify relevant terms and developments over time
+- Visualization of results in a dashboard to make trends in scientific literature accessible
+
+**Technical Development**
+- Contributing to the migration of existing structures to the Kirby Content Management System
+- Independently learning PHP and implementing required technical adaptations
+
+## My Own Projects
+
+### Waitsmart
+Web application currently being developed with **FastAPI and Python** to optimize waiting times in medical practices.
+The project focuses on backend development, structured data management, and building a practical web-based solution around real-world process data.
+
+### Sportdatenanalyse
+Web application for supporting the interaction between **coaches and athletes in endurance-oriented sports**.
+The project combines training planning, structured collection of training and feedback data, data analysis, and dashboarding. The goal is to connect the planning process between coach and athlete with the subsequent analysis of training data and provide a data-driven basis for training decisions.
+The project builds on my earlier **TrainTrack** project and extends the original idea from digital training tracking towards a more comprehensive data-driven training platform.
+
+### TrainTrack
+Earlier web application for digitally managing and tracking training activities.
+The project was an important step in exploring the combination of **Python-based web development, backend logic, databases, and structured training data**. It provides the foundation for the current Sportdatenanalyse project.
+
+### FinTrack
+Web application for tracking and analyzing stock market data.
+The project combines data retrieval, structured data storage, backend logic, and data visualization in a Python-based web application.
 
 ## Skills
 
-**Programming & Scripting:** Python, SQL, JavaScript, C, MATLAB  
-**Web Development & Frameworks:** Flask, HTML, CSS, JavaScript, Bootstrap 
-**Databases & ORMs:** PostgreSQL, SQLite, SQLAlchemy  
-**Tools & Version Control:** Git, GitHub, CLI, VS Code  
-**Other:** RESTful API design, Web scraping, Debugging  
+**Data Analysis & Programming:** Python, pandas, NumPy, R, SPSS  
+**Databases:** SQL, relational databases, MariaDB, data modeling  
+**Data Visualization & Reporting:** Plotly, Dash, matplotlib, Quarto  
+**Web Development:** FastAPI, JavaScript, HTML, CSS, PHP, Kirby CMS  
+**Development Tools:** Git, GitHub, GitLab, CLI, VS Code  
 
-## Projects
+## Connect
 
-**Web Apps**
-- [Traintrack](https://github.com/ltim-bs/traintrack.git) – Backend-focused app with Flask and SQLAlchemy  
-- [FinTrack](https://github.com/ltim-bs/fintrack.git) – Stock tracking web application created with Flask.
-- [SimpleStore](https://github.com/ltim-bs/simple-store.git) – Small web application demonstrating backend logic, data storage, and user interaction using Python and Flask.  
+Curious about what I'm building in my spare time? Just hit me up — always happy to talk about data, sports, or web development.
 
-**Computer Science & Learning Projects**
-- [Computer Science Fundamentals](https://github.com/ltim-bs/cs-fundamentals.git) – Hands-on projects from Harvard’s CS50 course.   
-- [Python Basics](https://github.com/ltim-bs/python-basics.git) – Collection of beginner-friendly Python exercises and small scripts.  
+- LinkedIn: www.linkedin.com/in/lars-timpe-870008368
 
-More projects coming soon!  
+
 
 
 
